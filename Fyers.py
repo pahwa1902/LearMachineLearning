@@ -38,7 +38,7 @@ def counts(a):
 
     return max_count, name_max_count, min_count, name_min_count
 
-output=count(data_dict)
+output=counts(data_dict)
 Output2=(output[0],output([1])
 Output3=(output[2],output[3])
 
