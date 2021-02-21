@@ -32,7 +32,7 @@ def counts(a):
         if(v>max_count):
             max_count=v
             name_max_count=j
-        if(v<min):
+        if(v<min_count):
             min_count=v
             name_min_count=j
 
